@@ -2,10 +2,12 @@
 
 <img alt="Credit Card Fraud Detection" src=".github/banner.svg" width="100%">
 
+Classification study detecting fraudulent card transactions on an imbalanced dataset, with dataset cleaning and class-distribution analysis.
+
 <br>
 
 
-![language](https://img.shields.io/badge/language-Jupyter%20Notebook-374151?style=flat-square&labelColor=111827) ![updated](https://img.shields.io/badge/updated-2023--11--06-1F2937?style=flat-square&labelColor=111827)
+![language](https://img.shields.io/badge/language-Jupyter%20Notebook-374151?style=flat-square&labelColor=111827) ![updated](https://img.shields.io/badge/updated-2026--11--04-1F2937?style=flat-square&labelColor=111827)
 
 </div>
 
@@ -13,7 +15,7 @@
 
 ## What this is
 
-Jupyter Notebook project with 1 Python module. Also checked in: 1 markdown document. The sections below are read from the repository itself, 3 tracked files as of 2023-11-06.
+A binary-classification exercise on credit-card fraud, where the interesting problem is class imbalance rather than the model. Uses `collections` to inspect the class distribution and a `clean_dataset` step before training, with matplotlib for visualisation.
 
 <div align="center">
 
